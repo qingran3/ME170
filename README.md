@@ -1,19 +1,18 @@
-# ME170 - Computer-Aided Design at UIUC (Spring 2022)
+# ME 170 - Computer-Aided Design at ZJUI (Spring 2022)
 
 ## Introduction
+This repository contains the CAD and analysis files for the **Automated Bookshelf** project completed during the ME 371 course at the Zhejiang University-University of Illinois Urbana-Champaign Institute (ZJU-UIUC).
 
-This repository contains the design and CAD files for a bookshelf project completed during the ME170 course at the Zhejiang University-University of Illinois Institute (ZJU-UIUC).
+![Poster](./Poster.jpg)
 
-### Key Features:
+## Features:
 - **Adjustable Shelf Size:** Gears allow the bookshelf to expand to accommodate various book sizes.
 - **Detachable Base:** Supports use on various surfaces, such as desks, beds, and windowsills.
 - **Automatic Page-Turning Mechanism:** Combines mechanical and electronic components to enhance user experience.
 - **Robust Design:** Made with durable materials to support up to 9 kg of books or devices.
 
-![Poster](./Poster.jpg)
-
 ## Authors
-This project is designed by:
+This project was designed by:
 - **Qingran WU**
 - **Yanjie LI**
 - **Xincheng WU**
