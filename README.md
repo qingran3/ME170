@@ -14,6 +14,6 @@ This repository contains the CAD files for the **Automated Bookshelf** project c
 ## Authors
 This project was designed by:
 - **Qingran WU**
+- **Xuanyi JIN**
 - **Yanjie LI**
 - **Xincheng WU**
-- **Xuanyi JIN**
