@@ -1,7 +1,7 @@
 # ME 170 - Computer-Aided Design at ZJUI (Spring 2022)
 
 ## Introduction
-This repository contains the CAD and analysis files for the **Automated Bookshelf** project completed during the ME 371 course at the Zhejiang University-University of Illinois Urbana-Champaign Institute (ZJU-UIUC).
+This repository contains the CAD files for the **Automated Bookshelf** project completed during the ME 170 course at the Zhejiang University-University of Illinois Urbana-Champaign Institute (ZJU-UIUC).
 
 ![Poster](./Poster.jpg)
 
